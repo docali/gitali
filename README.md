@@ -1,0 +1,4 @@
+gitali
+======
+
+Initial repository
